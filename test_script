@@ -1,0 +1,10 @@
+#!/bin/bash
+
+java Main alice.txt 100
+java Main alice.txt 1000
+java Main alice.txt 10000
+java Main alice.txt 100000
+java Main hawthorne.txt 100
+java Main hawthorne.txt 1000
+java Main hawthorne.txt 10000
+java Main hawthorne.txt 100000

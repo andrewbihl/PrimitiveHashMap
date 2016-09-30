@@ -1,0 +1,36 @@
+Andrew Thomas Bihl
+andrew.bihl@duke.edu  •  540-402-5062  •  linkedin.com/in/andrewbihl  •  andrewbihl.com  •  github.com/andrewbihl
+Technical Skills
+Strong:                 Objective-C, Swift, UIKit, GameKit & Game Center, Xcode, Git
+Experienced:         Java & JavaFX, C, MIPS Assembly, Core Data, Evernote iOS SDK, JSON, FireBase
+Education
+Duke University, Durham, NC        2018
+        Candidate for BS in Computer Science, minors in History and Spanish; GPA: 3.42/4.00
+Mobile Makers, Chicago, IL        2016
+Advanced iOS Development Immersive
+National Merit Scholar        2014        
+Experience
+Romeo3 (Crusoe iOS app – bit.ly/crusoeapp) iOS Developer        2016
+* Designed and implemented new feature which allows users to create and share trees of Evernote notes.
+   * User creates a path of linked notes which is stored to Core Data and synced to MySQL database.
+   * Path can then be shared via web links for online viewing or deep links for iOS viewing & importing.        
+* Implemented recognition and syncing of expunged notes; cut typical sync time by 90%.
+* Saw application through initial release to the app store.
+Duke Computer Science Department., Undergraduate Teaching Assistant        2016
+Taught Computer Architecture recitation class of 40 students and held office hours to aid students in comprehension. Received positive feedback from students and professor. 
+Daikin Applied, Engineering Intern        2014–15
+Shadowed engineering and manufacturing departments to learn workings of company. Wrote new instructions for equipment testing processes to make procedures clearer for workers on factory floor.
+Projects
+Count Off (bit.ly/countoffapp): Multiplayer iOS number game. Designed game logic and scoring; implemented storage, authentication, game updates, and player-matching through GameKit framework. 
+Chromescape: Scrolling game in which user directs a plane to dodge falling obstacles. Built with JavaFX.
+MIPS Processor: Built CPU in digital logic simulator according to MIPS instruction set architecture.
+Boggle: Implemented recursive backtracking algorithm to find all possible words in a randomly generated Boggle board.
+Huffman Compression: Implemented Huffman algorithm to compress and decompress data.
+Coursework
+Software Design, Database Systems, Computer Architecture, Data Structures & Algorithms, Open Source Software
+Leadership
+Duke Catalyst         2016
+Founding member of Duke’s first technology interest & pre-professional club.
+Duke Brazilian Jiu Jitsu Club        2014
+Interim President, Chair of Publicity and Recruitment
+Expanded membership of club by 50% and secured funding for the club’s first paid coach.
